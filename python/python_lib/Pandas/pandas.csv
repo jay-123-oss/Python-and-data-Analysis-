@@ -1,0 +1,21 @@
+StudentID,Name,Age,Gender,Class,Section,RollNo,Email,City,AvgMarks
+S1001,Aarav Sharma,15,M,10,A,1,aarav.sharma@example.com,Mumbai,83
+S1002,Aditi Verma,16,F,11,B,2,aditi.verma@example.com,,96
+S1003,Rohan Patel,15,M,10,A,3,rohan.patel@example.com,Ahmedabad,73
+S1004,Sneha Gupta,17,F,12,C,4,sneha.gupta@example.com,Bengaluru,59
+S1005,Vikram Singh,16,M,11,B,5,vikram.singh@example.com,Lucknow,87
+S1006,Isha Rao,15,F,10,A,,isha.rao@example.com,Jaipur,52
+S1007,Karan Mehta,17,M,12,C,7,karan.mehta@example.com,Pune,65
+S1008,Maya Iyer,16,F,11,B,8,maya.iyer@example.com,Kolkata,83
+S1009,Devansh Joshi,15,M,10,A,9,devansh.joshi@example.com,,63
+S1010,Priya Nair,17,F,12,C,10,priya.nair@example.com,Chennai,67
+S1011,Ankit Kumar,16,M,11,B,11,ankit.kumar@example.com,Indore,55
+S1012,Sana Khan,15,F,10,A,12,sana.khan@example.com,Bhopal,55
+S1013,Rahul Desai,17,M,12,C,13,rahul.desai@example.com,Vadodara,68
+S1014,Neha Chawla,16,F,11,B,14,neha.chawla@example.com,Hyderabad,97
+S1015,Arjun Agarwal,15,M,10,A,15,arjun.agarwal@example.com,Gurgaon,80
+S1016,Kavya Sen,17,F,12,C,16,kavya.sen@example.com,Noida,84
+S1017,Mohit Bhatia,16,M,11,B,17,,Nagpur,68
+S1018,Tara Mukerji,15,F,10,A,18,tara.mukerji@example.com,Patna,47
+S1019,Yash Thakur,17,,12,C,19,yash.thakur@example.com,Kanpur,66
+S1020,Rhea Kapoor,16,F,11,B,20,rhea.kapoor@example.com,Meerut,97

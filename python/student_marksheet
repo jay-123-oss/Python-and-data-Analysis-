@@ -1,0 +1,47 @@
+# all types input firs 
+name = input("Enter your name:  ")
+father_name = input("Enter your father name:  ")
+mother_name = input("Enter your mother name:  ")
+class_stu = input("Enter your class:  ")
+
+input_hindi = int(input("Enter your hindi marks: "))
+input_eng = int(input("Enter your english marks: "))
+input_phy = int(input("Enter your physics marks: "))
+input_che = int(input("Enter your chemistry marks: "))
+input_math = int(input("Enter your math marks: "))
+
+# all types prints first 
+
+print("__________Wellcome__________")
+
+str = ("____s.p. jain gurukul school khurai____")
+print(str.upper())
+
+
+print(f"hindi:{input_hindi}")
+print(f"English:{input_hindi}")
+print(f"Physics:{input_hindi}")
+print(f"Chemisty:{input_hindi}")
+print(f"Maht:{input_hindi}")
+
+total  = int(input_hindi+input_eng+input_phy+input_che+input_math)
+print(f"Total no.: {total}")
+persentage = (total*100)/500
+print(f"Your presentage is {persentage}")
+
+# grad condition 
+
+if persentage>80:
+    print("Grad:A+")
+elif persentage>75:
+    print("Grad:A")
+elif persentage>60:
+    print("Grad:b+")
+elif persentage>55:
+    print("Grad:b")
+elif persentage>40:
+    print("Grad:c+")
+elif persentage>35:
+    print("Grad:c")
+else:
+    print("fail")
